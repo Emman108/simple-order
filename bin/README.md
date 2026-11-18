@@ -47,8 +47,4 @@ Analyze the code:
     Subtotal             120.00
     Total                120.00
 
-    ## Project Status
-
-Completed for Mobile Programming Laboratory 01a.
-
-The program demonstrates Dart variables, classes, functions, null safety, list operations, and conditional discounts.
+    
